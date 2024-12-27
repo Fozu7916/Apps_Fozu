@@ -10,7 +10,8 @@
 
 3. Financial accounting system - ветка: Приложение(см.рисунок)
 
-![image](https://github.com/user-attachments/assets/aa9af2c1-8683-4acb-9b48-b3546eba5d0e)
+![image](https://github.com/user-attachments/assets/e5d6ced9-397c-46d8-9119-db1b2af45402)
+
 
 4.Discrod - bot: Приложение(см.рисунок)
 
