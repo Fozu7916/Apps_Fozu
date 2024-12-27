@@ -19,7 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/874a9359-669a-49b9-a65f-f852e24d7fff)
 
-5.Сonsole Financial accoutning system: 
+5.Сonsole Financial accoutning system: Приложение(см.рисунок)
 
 ![image](https://github.com/user-attachments/assets/00eb92d6-751b-4739-ab65-397f9cc4b3c9)
 
