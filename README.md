@@ -6,7 +6,8 @@
 
 2. Randomizer hoi4 - ветка: Приложение(см.рисунок)
 
-![image](https://github.com/user-attachments/assets/df637e73-9db6-4b9c-a007-3f9d8e442506)
+![Uploading image.png…]()
+
 
 3. Financial accounting system - ветка: Приложение(см.рисунок)
 
