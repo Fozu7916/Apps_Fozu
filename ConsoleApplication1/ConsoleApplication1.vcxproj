@@ -127,13 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\sqlite-amalgamation-3470200\shell.c" />
-    <ClCompile Include="..\..\..\..\Desktop\sqlite-amalgamation-3470200\sqlite3.c" />
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="shell.c" />
+    <ClCompile Include="sqlite3.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\sqlite-amalgamation-3470200\sqlite3.h" />
-    <ClInclude Include="..\..\..\..\Desktop\sqlite-amalgamation-3470200\sqlite3ext.h" />
+    <ClInclude Include="sqlite3.h" />
+    <ClInclude Include="sqlite3ext.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

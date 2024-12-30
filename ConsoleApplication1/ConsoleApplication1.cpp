@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "..\..\..\..\Desktop\sqlite-amalgamation-3470200\sqlite3.h"
+#include "sqlite3.h"
 #include <vector>
 #include <string>
 
