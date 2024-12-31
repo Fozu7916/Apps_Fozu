@@ -23,6 +23,6 @@
 
 ![image](https://github.com/user-attachments/assets/00eb92d6-751b-4739-ab65-397f9cc4b3c9)
 
-6. main app
+6. main app(synchronized with database)
 
 ![image](https://github.com/user-attachments/assets/69fbe5ad-5b9d-4916-9242-c86fc575c813)
