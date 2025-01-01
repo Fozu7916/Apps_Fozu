@@ -20,7 +20,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
     Application::SetCompatibleTextRenderingDefault(false);
     Application::Run(gcnew MyForm);
     return 0;
-    srand(time(NULL)); 
 }
 
 
@@ -40,6 +39,7 @@ System::Void GoGO::MyForm::Edit_button_Click(System::Object^ sender, System::Eve
 {
     Stealth_label->Visible = true;
     textBox1->Visible = true;
+    OK_button->Visible = true;
 }
 System::Void GoGO::MyForm::Create_button_Click(System::Object^ sender, System::EventArgs^ e) 
 {
@@ -47,10 +47,13 @@ System::Void GoGO::MyForm::Create_button_Click(System::Object^ sender, System::E
 }
 System::Void GoGO::MyForm::OK_button_Click(System::Object^ sender, System::EventArgs^ e)
 {  
-    List->Items[List->SelectedIndex] = textBox1->Text;
-    Stealth_label->Visible = false;
-    textBox1->Visible = false;
-    textBox1->Text = "";
+    if (textBox1->Text != "")
+    {
+        List->Items[List->SelectedIndex] = textBox1->Text;
+        Stealth_label->Visible = false;
+        textBox1->Visible = false;
+        textBox1->Text = "";
+    }
 }
 System::Void GoGO::MyForm::Save_button_Click(System::Object^ sender, System::EventArgs^ e)
 {
@@ -77,8 +80,8 @@ System::Void GoGO::MyForm::Synchr_Click(System::Object^ sender, System::EventArg
         std::string line;
         while (std::getline(inputFile, line))
         {
-            String^ lineStr = msclr::interop::marshal_as<String^>(line);
-            List->Items->Add(lineStr);
+          String^ lineStr = msclr::interop::marshal_as<String^>(line);
+          List->Items->Add(lineStr);
         }
         inputFile.close(); 
    }
