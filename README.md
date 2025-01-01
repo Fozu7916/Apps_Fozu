@@ -1,7 +1,8 @@
 
 1. User control and accounting system - ветка: Приложение(см.рисунок)
 
-![image](https://github.com/user-attachments/assets/c112b79a-b22f-4644-a3b2-8231edcff8d2)
+![image](https://github.com/user-attachments/assets/2ccc33ad-8b1f-481f-aec1-1c42ed8a7fe5)
+
 
 
 2. Randomizer hoi4 - ветка: Приложение(см.рисунок)
