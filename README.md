@@ -27,3 +27,8 @@
 6. main app(synchronized with database)
 
 ![image](https://github.com/user-attachments/assets/69fbe5ad-5b9d-4916-9242-c86fc575c813)
+
+
+7.My QT APP
+
+![image](https://github.com/user-attachments/assets/49bfa843-75ce-453d-9d6c-68c4fbec4a42)
