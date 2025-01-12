@@ -1,5 +1,7 @@
+At this repository i post the bests of all my apps
 
-1. User control and accounting system - ветка: Приложение(см.рисунок)
+
+1. User control and accounting sytem - ветка: Приложение(см.рисунок)
 
 ![image](https://github.com/user-attachments/assets/2ccc33ad-8b1f-481f-aec1-1c42ed8a7fe5)
 
