@@ -34,3 +34,6 @@ At this repository i post the bests of all my apps
 7.My QT APP
 
 ![image](https://github.com/user-attachments/assets/49bfa843-75ce-453d-9d6c-68c4fbec4a42)
+
+Qt pass manager
+![image](https://github.com/user-attachments/assets/bfaa8072-ad47-4729-a744-bd0dca807ada)
